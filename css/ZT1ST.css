@@ -175,7 +175,11 @@ nav.links:hover ul {
   min-height: 100vh;
   justify-content: center;
   align-items: center;
+<<<<<<< Updated upstream
   background-image: url(../img/3899617.jpg) ;
+=======
+  background-image: url(../img/3899617.jpg);
+>>>>>>> Stashed changes
   background-size: cover;
   background-repeat: no-repeat;
   background-attachment: fixed;
@@ -552,10 +556,10 @@ nav.links:hover ul {
   list-style: none;
   margin: 0;
   padding: 0 0 0 10px;
-  gap: 20px ;
+  gap: 20px;
 }
 @media (max-width: 991px) {
-  .contact .contact-content ul{
+  .contact .contact-content ul {
     display: block;
   }
 }
